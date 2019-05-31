@@ -1,0 +1,4 @@
+export const SEARCH_BOOKS = 'SEARCH_BOOKS';
+export const SET_LOADING_STATUS = 'SET_LOADING_STATUS';
+export const SET_BOOKS = 'SET_BOOKS';
+export const SET_NOT_RESULTS = 'SET_NOT_RESULTS';
