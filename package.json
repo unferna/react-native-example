@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-native": "0.59.8",
